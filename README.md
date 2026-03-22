@@ -7,3 +7,9 @@ Model: YOLO11s (Small variant) for an optimal balance between speed and accuracy
 Hardware: Trained on NVIDIA A100 GPU via Google Colab.
 
 Advanced Augmentation: Implemented custom Data Augmentation (DA) strategies including Mosaic (1.0), Mixup (0.1), and HSV color shifts to handle varying lighting and background conditions.
+
+## 📈 Training Results
+![Training Results](fruit_ripeness_DA/DA.png)
+
+## 🎯 Confusion Matrix
+![Confusion Matrix](fruit_ripeness_DA/confusion_matrix.png)

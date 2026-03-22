@@ -1,0 +1,8 @@
+# Ignore dataset folders
+datasets/
+
+# Ignore large weight files except the best one (optional)
+# runs/*/weights/last.pt
+
+__pycache__/
+.DS_Store
